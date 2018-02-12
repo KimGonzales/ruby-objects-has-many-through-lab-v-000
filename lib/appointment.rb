@@ -1,8 +1,8 @@
-def Appointment 
+def Appointment
 
   def initialize(date, doctor)
-    @date = date 
-    @doctor = doctor 
+    @date = date
+    @doctor = doctor
   end
   
-end 
+end
